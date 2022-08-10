@@ -1,1 +1,1 @@
-# zero_DeepL4
+# ゼロから作るDeep Learning4勉強用リポジトリ
